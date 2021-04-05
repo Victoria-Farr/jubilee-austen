@@ -1,3 +1,5 @@
+![Jubilee Austen Screenshot Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+
 # Jubilee Austen portfolio site
 
 A dynamic and elegant portfolio site for a front-end developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
