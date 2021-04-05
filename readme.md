@@ -1,4 +1,4 @@
-![Jubilee Austen Screenshot Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![Jubilee Austen Screenshot Banner](img/jubilee-readme-header.png)
 
 # Jubilee Austen portfolio site
 
