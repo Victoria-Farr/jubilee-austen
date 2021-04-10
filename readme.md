@@ -4,6 +4,8 @@
 
 A dynamic and elegant portfolio site for a front-end developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
 
+View it at: https://victoria-farr.github.io/jubilee-austen/
+
 ## Prerequisites
 
 - A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
