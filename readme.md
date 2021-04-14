@@ -19,7 +19,7 @@ It was created using Skillcrush.com coursework: <https://github.com/skillcrush>
 The following contributed to this project:
 
 - [Skillcrush.com](http://skillcrush.com/) coursework: [https://github.com/skillcrush](https://github.com/skillcrush)
-- [@victoria-farr]🍊(https://github.com/Victoria-Farr)
+- [@victoria-farr](https://github.com/Victoria-Farr)🍊
 
 ## Contact
 
