@@ -1,16 +1,14 @@
-![Jubilee Austen Screenshot Banner](img/jubilee-readme-header.png)
+![Jubilee Austen Banner](img/jubilee-readme-header.png)
 
 # Jubilee Austen portfolio site
 
-A dynamic and elegant portfolio site for a front-end developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
+A dynamic and elegant portfolio site concept for a front-end developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
 
-View it at: https://victoria-farr.github.io/jubilee-austen/
+View it live at: https://victoria-farr.github.io/jubilee-austen/
 
 ## Prerequisites
 
-- A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
-
-This is a student project for display only, thanks!
+- An up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
 
 ```
 It was created using Skillcrush.com coursework: <https://github.com/skillcrush>
@@ -21,12 +19,12 @@ It was created using Skillcrush.com coursework: <https://github.com/skillcrush>
 The following contributed to this project:
 
 - [Skillcrush.com](http://skillcrush.com/) coursework: [https://github.com/skillcrush](https://github.com/skillcrush)
-- [@victoria-farr](https://github.com/Victoria-Farr) 🍊
+- [@victoria-farr]🍊(https://github.com/Victoria-Farr)
 
 ## Contact
 
-If you want to contact me you can reach me at [victoriafarr@gmail.com](mailto:victoriafarr@gmail.com)
+You can reach me at [victoriafarr@gmail.com](mailto:victoriafarr@gmail.com)
 
 ## License
 
-This project uses the following license: [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+[Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
