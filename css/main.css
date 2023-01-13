@@ -91,11 +91,11 @@ header h2 span {
   padding-right: 50px;
 }
 
-/***** WORK *****/
+/***** SKILLS *****/
 
 #skills {
   background-color: #F9CEB7;
-  text-align: center;
+  text-align: left;
 }
 
 #skills .full-width {
