@@ -93,20 +93,20 @@ header h2 span {
 
 /***** WORK *****/
 
-#work {
+#skills {
   background-color: #F9CEB7;
   text-align: center;
 }
 
-#work .full-width {
+#skills .full-width {
   padding: 115px 0;
 }
 
-#work img {
+#skills img {
   padding-bottom: 30px;
 }
 
-#work h3 {
+#skills h3 {
   font-size: 24px;
   line-height: 32px;
   width: 190px;
@@ -114,7 +114,7 @@ header h2 span {
   padding: 10px;
 }
 
-#work p {
+#skills p {
   font-family: 'Lora', serif;
   font-size: 18px;
   line-height: 30px;
